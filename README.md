@@ -1,5 +1,5 @@
 # MARK-LW
-
+[![License: MARK-Custom](https://img.shields.io/badge/license-MARK--Custom-blue.svg)](./LICENSE.mark)
 ## 📄 License
 
 This project is licensed under a **custom license** known as the **MARK License**.
